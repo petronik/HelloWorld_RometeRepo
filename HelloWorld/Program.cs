@@ -13,6 +13,9 @@ namespace HelloWorld
             int res = 5 * 4;
 
             Console.WriteLine("res = " + res);
+
+            // feature 2
+            Console.WriteLine("Second feature here!");
         }
     }
 }
